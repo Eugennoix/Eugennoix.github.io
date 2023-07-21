@@ -1,2 +1,2 @@
 ## Things
-- [keep score] (keep-score)
+- [keep score](keep-score)
